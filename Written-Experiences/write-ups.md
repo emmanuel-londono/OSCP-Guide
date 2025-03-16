@@ -11,4 +11,5 @@
 
 ## Misc Sites
 - [My OSCP Experience](https://eins.li/posts/my-oscp-experience/)
+- [How I Passed the OSCP in Just 6 Months](https://warranty-v01d.pages.dev/posts/how-i-passed-the-oscp/)
 
