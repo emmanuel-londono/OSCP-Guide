@@ -8,6 +8,7 @@
 ## Medium 
 - [How I passed OSCP first time](https://medium.com/@0xs4m/how-i-passed-oscp-first-time-19d0b63354c1)
 - [How I passed OSCP+ in two months](https://medium.com/@0xkhaled/how-i-passed-oscp-in-two-months-14685a324e83)
+- [How I Passed OSCP with 110 points in 7 hours(First Attempt) Without Metasploit](https://nagendrangs.medium.com/how-i-passed-oscp-with-110-points-in-7-hours-first-attempt-without-metasploit-d6d7f6156444)
 
 ## Misc Sites
 - [My OSCP Experience](https://eins.li/posts/my-oscp-experience/)
